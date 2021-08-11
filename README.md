@@ -10,7 +10,7 @@ DB_PASSWORD=somepassword
 DB_PORT=5439
 
 [IAM_ROLE]
-ARN='arn:aws:iam::144117907596:role/dwhRole'
+ARN='arn:aws:iam::cccccc'
 ------------------------
 
 RedShiftCluster1CreateRolePolicy.py
